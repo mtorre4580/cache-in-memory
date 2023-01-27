@@ -1,0 +1,13 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "Create a cache in memory like redis in javascript",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mtorre4580@outlook.com",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
