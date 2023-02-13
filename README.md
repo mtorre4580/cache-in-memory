@@ -36,3 +36,5 @@ The solution has achieve this
 - Consistency: Every read receives the most recent write or an error.
 - Availability: Every request receives a (non-error) response, without the guarantee that it contains the most recent write.
 - Partition tolerance: The system continues to operate despite an arbitrary number of messages being dropped (or delayed) by the network between nodes.
+
+<img style="width: 600px" src="https://github.com/mtorre4580/cache-in-memory/blob/main/cap.png" alt="cap theorem" />
